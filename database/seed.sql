@@ -1,9 +1,7 @@
 -- ============================================================
--- InterviewAce AI - Seed Data
+-- InterviewAce AI - Seed Data (PostgreSQL)
 -- Run after schema.sql
 -- ============================================================
-
-USE interviewace_db;
 
 -- ------------------------------------------------------------
 -- Default Admin User (password: Admin@123)
@@ -197,4 +195,4 @@ INSERT INTO profiles (user_id, college, degree, branch, graduation_year, skills,
 
 -- Seed streak data
 INSERT INTO user_streaks (user_id, current_streak, longest_streak, last_activity_date, total_active_days) VALUES
-(2, 5, 12, CURDATE(), 28);
+(2, 5, 12, CURRENT_DATE, 28);
