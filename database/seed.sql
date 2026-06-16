@@ -8,8 +8,8 @@
 -- BCrypt hash of "Admin@123"
 -- ------------------------------------------------------------
 INSERT INTO users (name, email, password, role, is_active, email_verified) VALUES
-('Admin User', 'admin@interviewace.ai', '$2a$12$LQv3c1yqBWVHxkd0LHAkCOYz6TiGniMQUt5pVGqjBE8UF6WzfGp3K', 'ADMIN', TRUE, TRUE),
-('Demo Student', 'student@interviewace.ai', '$2a$12$LQv3c1yqBWVHxkd0LHAkCOYz6TiGniMQUt5pVGqjBE8UF6WzfGp3K', 'STUDENT', TRUE, TRUE);
+('Admin User', 'admin@interviewace.ai', '$2a$12$UOtXheLnG185AqbS2xgBPezU/ImVj4lIQp/14feoHeVb/2VeF50Mu', 'ADMIN', TRUE, TRUE),
+('Demo Student', 'student@interviewace.ai', '$2a$12$UOtXheLnG185AqbS2xgBPezU/ImVj4lIQp/14feoHeVb/2VeF50Mu', 'STUDENT', TRUE, TRUE);
 
 -- ------------------------------------------------------------
 -- Coding Problems
