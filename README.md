@@ -1,4 +1,4 @@
-# InterviewAce AI 🚀
+# InterviewAce 🚀
 
 ### AI-Powered Smart Interview Preparation Platform
 
