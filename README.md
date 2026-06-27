@@ -53,7 +53,7 @@
 | **Admin** | User management, add questions/problems, analytics |
 | **UI/UX** | Dark/Light mode, glassmorphism, Framer Motion animations |
 
----
+----------
 
 ## Tech Stack
 
