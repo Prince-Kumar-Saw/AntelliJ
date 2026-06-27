@@ -76,7 +76,7 @@ function App() {
             duration: 4000,
             style: {
               background: '#1e293b',
-              color: '#f1f5f9',
+              color: '#f1f5f7',
               border: '1px solid rgba(255,255,255,0.08)',
               borderRadius: '0.75rem',
               fontSize: '0.875rem',
