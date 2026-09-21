@@ -1,4 +1,4 @@
-# InterviewAce 🚀
+# AntelliJ - InterviewAce 🚀
 
 ### AI-Powered Smart Interview Preparation Platform
 
